@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfredbrown1
 - 👀 I’m interested in Biotech, SynBio, IoT, DeSci & Web3
-- 🌱 I’m currently learning Solidity, Python, C/C++, SQL & HTML
+- 🌱 I’m currently learning Python, basic knowledge of HTML, SQL and C++.
 - 💞️ I’m looking to collaborate on anything & everything bio - looking to learn
 - 📫 How to reach me:
 - Twitter: AlfredJBrown99
