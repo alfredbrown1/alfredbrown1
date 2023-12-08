@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything & everything bio - looking to learn
 - 📫 How to reach me:
 - Twitter: AlfredJBrown99
-- Discord: @alfredbiotech#0468
+- Discord: @alfredbiotech
 - Telegram: @alfredjbrown
 <!---
 alfredbrown1/alfredbrown1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
